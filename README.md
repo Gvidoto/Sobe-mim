@@ -6,7 +6,7 @@
 
 <h1>Descrição do projeto</h1>
 
-<h3>Durante quatro cursos sobre HTML e CSS, fui adquirindo conhecimentos e habilidades para estilizar a página. Usamos HTML e CSS para estilizar a página e deixxar de uma maneira que melhor nos descrevesse.</h3>
+<h4>Durante quatro cursos sobre HTML e CSS, fui adquirindo conhecimentos e habilidades para estilizar a página. Usamos HTML e CSS para estilizar a página colocando cores, fontes, alinhamentos e espaços entre o conteudo, adicionamos também botões âncora para colocar minhas redes, estilizamos esses botões e adicionamos uma foto para essa página.</h4>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 - `HTML`: Utilizado para estruturar a página e adicionar todo o coteúdo.
