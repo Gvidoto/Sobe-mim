@@ -13,6 +13,16 @@
 - `CSS` : Utilizado para estilizar, adicionado cores, fontes, bordas e alinhamentos na página.
 - `FLEX-BOX`: Utilizado para que pudesse-mos ajustar os conteudos da forma que queriamos, como colocá-los em coluna ou linha, ajustar as bordas e distanciamentos entre os conteúdos.
 
+## 📁 Acesso ao projeto
+[Veja o projeto final do curso em funcionamento](https://gvidoto.github.io/Sobe-mim/)
+
+
+## 🛠️ Abrir e rodar o projeto
+
+Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+
+
+
 
 
 
