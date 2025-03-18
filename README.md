@@ -21,7 +21,9 @@
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
+# Autores
 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/197179787?v=4" width=115><br><sub>Gabriel Vidoto Santos</sub>](https://github.com/Gvidoto)
 
 
 
